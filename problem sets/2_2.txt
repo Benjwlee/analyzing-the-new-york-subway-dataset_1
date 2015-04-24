@@ -1,0 +1,6 @@
+Good job! Your code worked perfectly.
+Output by your program below.
+
+   fog  max(cast (maxtempi as integer))
+0    0                               86
+1    1                               81
