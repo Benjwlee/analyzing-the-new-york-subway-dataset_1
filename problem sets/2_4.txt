@@ -1,0 +1,5 @@
+Good job! Your code worked perfectly.
+Output by your program below.
+
+   avg(cast (mintempi as integer))
+0                            61.25                         81
