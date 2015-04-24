@@ -1,0 +1,5 @@
+Good job! Your code worked perfectly.
+
+
+   count(*)
+0        10
