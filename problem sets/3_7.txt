@@ -1,0 +1,2 @@
+You calculated R^2 value correctly!
+Your calculated R^2 value is: 0.318137233709
